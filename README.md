@@ -10,3 +10,10 @@ This project calculates simple interest given the principal, annual rate of inte
 
 ## Output:
 - Simple Interest = p * t * r
+
+
+
+
+
+Author
+Abhilasha Singh

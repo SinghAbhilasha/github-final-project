@@ -16,4 +16,5 @@ This project calculates simple interest given the principal, annual rate of inte
 
 
 Author
+
 Abhilasha Singh
